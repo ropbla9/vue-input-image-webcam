@@ -1,0 +1,24 @@
+{
+  "name": "vue-input-image",
+  "version": "1.0.0",
+  "description": "A vue image input that returns BASE64",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vue.js",
+    "vue",
+    "2",
+    "vue",
+    "2.0",
+    "component",
+    "vue"
+  ],
+  "author": "Rodolfo Paranhos",
+  "license": "ISC",
+  "dependencies": {
+    "vue-webcam": "^2.0.4"
+  }
+}
