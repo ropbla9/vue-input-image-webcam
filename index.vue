@@ -16,12 +16,12 @@
         <b-modal :active.sync="active_take_pic_modal" has-modal-card>
             <vue-webcam ref='webcam' />
             <div class="has-text-centered">
-                <button class="button is-success" @click="take_pic">
+                <span class="button is-success" @click="take_pic">
                     <span class="icon is-small">
                         <i class="fas fa-check"></i>
                     </span>
                     <span>{{$t('ready')}}</span>
-                </button>
+                </span>
             </div>
         </b-modal>
 
