@@ -1,5 +1,5 @@
 <style scoped>
-    .input-image {
+    .input-image-webcam {
         display: inline-block
     }
 </style>
