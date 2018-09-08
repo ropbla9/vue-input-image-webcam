@@ -1,6 +1,7 @@
 <style scoped>
     .input-image-webcam {
-        display: inline-block
+        display: inline-block;
+        vertical-align: top;
     }
 </style>
 
