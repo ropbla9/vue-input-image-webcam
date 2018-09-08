@@ -1,5 +1,5 @@
 {
-  "name": "vue-input-image",
+  "name": "vue-input-image-webcam",
   "version": "1.0.0",
   "description": "A vue image input that returns BASE64",
   "main": "index.js",
